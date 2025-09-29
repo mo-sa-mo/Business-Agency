@@ -18,5 +18,3 @@ Business Agency is a modern responsive website template for a digital agency. It
 - **Font Awesome**  
 - **Google Fonts (Oswald, Baloo Da 2)**  
 - **Swiper.js**  
-
-## 📂 Project Structure  
